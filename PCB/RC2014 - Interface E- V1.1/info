@@ -1,0 +1,696 @@
+{
+  "uuid": "71b416fa7e17b73f7ce95c7e169d3fc0",
+  "path": "Offline/RC2014%20-%20Interface%20E-%20V1.1",
+  "name": "RC2014 - Interface E- V1.1",
+  "content": "",
+  "created_at": "2023-03-15 22:54:45",
+  "updated_at": "2023-07-25 17:17:45",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9c8aa4e2196cf3b7c5a7421fe735e247",
+      "title": "SCH- RC2014- Interface E",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7f474ecfe86cad0db40a161c696fe62f": 10,
+        "4be4c3425bd24885a3069bf9b90591cd": 1,
+        "2efce553d6694f709d55bfab3a39bf5c": 1,
+        "b9a44daa956e435bbb35b96985afad59": 1,
+        "a739dc9e9a094560b5fac46377c39d58": 1,
+        "f95c73b56c70470bb368ac381f12a625": 1,
+        "f125263c02b14418922d4693e04f5960": 1,
+        "7e4dde3ec0b14bbb815022a1307a5cb9": 1,
+        "bbe89122c2b24385abbfd8c66743379c": 1,
+        "53dec24a03f144cf9931b510eb772b01": 1,
+        "e0c955569b7c4c2285c721a3d1a8c371": 1,
+        "05ccfe0c15e74b659c14f299ebba03bd": 1,
+        "fefc3f929bb54efd9ed76a4091e7b7e8": 1,
+        "2fe6d9d61671476b9c9e65b5ef27dc12": 1,
+        "cc94b640af7d4859aa5f65e3cec99116": 1,
+        "fef0466067df47dfa5d0f8890617a2d2": 1,
+        "fa602496f79a430482531abbcf082427": 1,
+        "8fe851a670ed419e91bb3fe99231e0a1": 1,
+        "49c16a621a0b4e6bbc9d426f05fa76c3": 1,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 5,
+        "a9aa2b14f188405792fa87ac344499a4": 3,
+        "979329c14ba44f1c9bc47c0a844ae6d9": 1,
+        "0ec2ed4887184cebab8d5bb3a8ad29e6": 1,
+        "8c15f669701c48b6a9a037e22e683062": 1,
+        "dac7d309cc804eb3a805fc0a8b8f07ce": 1,
+        "7763a89e06d0bb52da4e8293c91a5950": 1,
+        "8c95eef853b1473e9539399823e4b359": 1,
+        "4e458d3d64e8429c8c5dd40aac478890": 1,
+        "8d51c69156d44faa943fd9d695ed8141": 1,
+        "c4d39ccfc9464c818f478a5dbf54ff5d": 1,
+        "7f67b9ecdf5f4f8aac0351bb46cfceac": 1,
+        "7e707b83970d449fbf18633705a978ba": 1,
+        "335660922913480c8d65b8c1a0cc353c": 1,
+        "d0d55c59bae04c8b986fb3c0282a4400": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          9,
+          "CAP-TH_L5.5-W3.5-P2.50-D0.5 COPY",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "100nF (104) ±20% 100V",
+            "BOM_Supplier Part": "C72322",
+            "puuid": "64f0880e278e480098c66fa92784f26c",
+            "uuid": "7f474ecfe86cad0db40a161c696fe62f"
+          }
+        ],
+        [
+          "47uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C190654",
+            "BOM_Manufacturer": "Changzhou Huawei Elec",
+            "BOM_Manufacturer Part": "KM1H470ME110A00CV0",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1a9b494b74c34d3b879eb7f824b3824d",
+            "uuid": "4be4c3425bd24885a3069bf9b90591cd"
+          }
+        ],
+        [
+          "680pF",
+          1,
+          "CAP-TH_L5.5-W3.5-P2.50-D0.5 COPY",
+          "C11",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "100nF (104) ±20% 100V",
+            "BOM_Supplier Part": "C72322",
+            "puuid": "64f0880e278e480098c66fa92784f26c",
+            "uuid": "7f474ecfe86cad0db40a161c696fe62f"
+          }
+        ],
+        [
+          "DB25H",
+          1,
+          "M25H",
+          "CN1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "10bb1781dd4544e8b889f2548a273660",
+            "uuid": "d0d55c59bae04c8b986fb3c0282a4400"
+          }
+        ],
+        [
+          "IDC Box2×17P",
+          1,
+          "IDC-TH_34P-P2.54_BOOMELE-2X17P",
+          "CN2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "IDC Box2×17P Right Angle",
+            "BOM_Supplier Part": "C20920",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "4cf19c1d24854076b3ed78fb05d7a40c",
+            "uuid": "7763a89e06d0bb52da4e8293c91a5950"
+          }
+        ],
+        [
+          "RC2014 Male 40",
+          1,
+          "HDR-1X40-A-M-R-2.54MM",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "a12d9c123b504547a7ac6826a9e275cf",
+            "uuid": "49c16a621a0b4e6bbc9d426f05fa76c3"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          3,
+          "HDR-M-2.54_1X2",
+          "J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x3",
+          1,
+          "HDR-M-2.54_2X3",
+          "J4",
+          {
+            "BOM_Supplier Part": "C65114",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "a5b8fff1a45c42f9aa306bafedcb5748",
+            "uuid": "8c95eef853b1473e9539399823e4b359"
+          }
+        ],
+        [
+          "2N3904TFR",
+          1,
+          "TO-92-3_L4.8-W3.7-P2.54-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C258185",
+            "BOM_Manufacturer": "ON Semicon",
+            "BOM_Manufacturer Part": "2N3904TFR",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "619489e674074de888fe8dd8f6b9799e",
+            "uuid": "8fe851a670ed419e91bb3fe99231e0a1"
+          }
+        ],
+        [
+          "0R",
+          1,
+          "R_AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "4K7",
+          2,
+          "R_AXIAL-0.3",
+          "R2,R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R_AXIAL-0.3",
+          "R4,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "74HC574N,652",
+          1,
+          "DIP-20_L26.8-W6.4-P2.54-LS7.6-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Nexperia",
+            "BOM_Manufacturer Part": "74HC574N,652",
+            "BOM_Supplier Part": "C5347",
+            "puuid": "e9dc8558f6dc49a6862f4f3e66fa90bd",
+            "uuid": "4e458d3d64e8429c8c5dd40aac478890"
+          }
+        ],
+        [
+          "74HC30",
+          1,
+          "DIP14",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C133818",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "CD74HC30E",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "fa602496f79a430482531abbcf082427"
+          }
+        ],
+        [
+          "28C64C",
+          1,
+          "DIP28-600",
+          "U9",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "bbc690a36c184d1b9a51ba6979bc612a",
+            "uuid": "979329c14ba44f1c9bc47c0a844ae6d9"
+          }
+        ],
+        [
+          "74HC32",
+          1,
+          "DIP14",
+          "U2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "a739dc9e9a094560b5fac46377c39d58"
+          }
+        ],
+        [
+          "DM74LS27N",
+          1,
+          "DIP14",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "8d51c69156d44faa943fd9d695ed8141"
+          }
+        ],
+        [
+          "CD74HC125E",
+          1,
+          "PDIP-14_L19.3-W6.4-P2.54-LS7.9-BL-1",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1548119",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "CD74HC125E",
+            "puuid": "7f0ad408a835483d8942d64d433787e6",
+            "uuid": "2efce553d6694f709d55bfab3a39bf5c"
+          }
+        ],
+        [
+          "74HC86",
+          1,
+          "DIP14",
+          "U6",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "fefc3f929bb54efd9ed76a4091e7b7e8"
+          }
+        ],
+        [
+          "74HC10",
+          1,
+          "DIP14",
+          "U7",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Digi-Key",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "53dec24a03f144cf9931b510eb772b01"
+          }
+        ],
+        [
+          "MC74HC74AN",
+          1,
+          "DIP14",
+          "U8",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "7e707b83970d449fbf18633705a978ba"
+          }
+        ]
+      ],
+      "updateTime": 1690262265,
+      "createTime": 1678874086,
+      "histories": [],
+      "created_at": "2023-03-15 22:54:46",
+      "updated_at": "2023-07-25 17:17:45"
+    },
+    {
+      "uuid": "6ec5ecdd6a454d036f4b104b47c6c9d8",
+      "puuid": "519017aab1c3e162e5326f6e262ae37d",
+      "title": "PCB- RC2014- Interface E",
+      "filename": "PCB- RC2014- Interface E.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "70aa5812f21f4991bf427395d51849f4": 3,
+        "10bb1781dd4544e8b889f2548a273660": 1,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 6,
+        "1a9b494b74c34d3b879eb7f824b3824d": 1,
+        "64f0880e278e480098c66fa92784f26c": 10,
+        "3eb1249f3ebb4284ae221b0379016582": 5,
+        "7f0ad408a835483d8942d64d433787e6": 1,
+        "4cf19c1d24854076b3ed78fb05d7a40c": 1,
+        "a5b8fff1a45c42f9aa306bafedcb5748": 1,
+        "e9dc8558f6dc49a6862f4f3e66fa90bd": 1,
+        "bbc690a36c184d1b9a51ba6979bc612a": 1,
+        "619489e674074de888fe8dd8f6b9799e": 1,
+        "a12d9c123b504547a7ac6826a9e275cf": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          9,
+          "CAP-TH_L5.5-W3.5-P2.50-D0.5 COPY",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "100nF (104) ±20% 100V",
+            "BOM_Supplier Part": "C72322",
+            "puuid": "64f0880e278e480098c66fa92784f26c",
+            "uuid": "7f474ecfe86cad0db40a161c696fe62f"
+          }
+        ],
+        [
+          "47uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C190654",
+            "BOM_Manufacturer": "Changzhou Huawei Elec",
+            "BOM_Manufacturer Part": "KM1H470ME110A00CV0",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1a9b494b74c34d3b879eb7f824b3824d",
+            "uuid": "4be4c3425bd24885a3069bf9b90591cd"
+          }
+        ],
+        [
+          "680pF",
+          1,
+          "CAP-TH_L5.5-W3.5-P2.50-D0.5 COPY",
+          "C11",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "100nF (104) ±20% 100V",
+            "BOM_Supplier Part": "C72322",
+            "puuid": "64f0880e278e480098c66fa92784f26c",
+            "uuid": "7f474ecfe86cad0db40a161c696fe62f"
+          }
+        ],
+        [
+          "DB25HP",
+          1,
+          "M25HP",
+          "CN1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d48b317fe23a4442abbc841d574ed365",
+            "uuid": "5a8bfe5445f34757afa08c63c27dba6a"
+          }
+        ],
+        [
+          "IDC Box2×17P",
+          1,
+          "IDC-TH_34P-P2.54_BOOMELE-2X17P",
+          "CN2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "IDC Box2×17P Right Angle",
+            "BOM_Supplier Part": "C20920",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "4cf19c1d24854076b3ed78fb05d7a40c",
+            "uuid": "7763a89e06d0bb52da4e8293c91a5950"
+          }
+        ],
+        [
+          "IN4148",
+          13,
+          "IN4148",
+          "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13",
+          {
+            "BOM_Manufacturer Part": "IN4148",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "5dcd07b109bb417888cb8c1089746b0f",
+            "uuid": "7904071eca55419794c46176e0de651a"
+          }
+        ],
+        [
+          "RC2014 Male 40",
+          1,
+          "HDR-1X40-A-M-R-2.54MM",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "a12d9c123b504547a7ac6826a9e275cf",
+            "uuid": "49c16a621a0b4e6bbc9d426f05fa76c3"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          2,
+          "HDR-M-2.54_1X2",
+          "J2,J3",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x3",
+          1,
+          "HDR-M-2.54_2X3",
+          "J4",
+          {
+            "BOM_Supplier Part": "C65114",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "a5b8fff1a45c42f9aa306bafedcb5748",
+            "uuid": "8c95eef853b1473e9539399823e4b359"
+          }
+        ],
+        [
+          "2N3904TFR",
+          1,
+          "TO-92-3_L4.8-W3.7-P2.54-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C258185",
+            "BOM_Manufacturer": "ON Semicon",
+            "BOM_Manufacturer Part": "2N3904TFR",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "619489e674074de888fe8dd8f6b9799e",
+            "uuid": "8fe851a670ed419e91bb3fe99231e0a1"
+          }
+        ],
+        [
+          "0R",
+          1,
+          "R_AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "4K7",
+          2,
+          "R_AXIAL-0.3",
+          "R2,R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "10K",
+          13,
+          "R_AXIAL-0.3",
+          "R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "74HC574N,652",
+          1,
+          "DIP-20_L26.8-W6.4-P2.54-LS7.6-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Nexperia",
+            "BOM_Manufacturer Part": "74HC574N,652",
+            "BOM_Supplier Part": "C5347",
+            "puuid": "e9dc8558f6dc49a6862f4f3e66fa90bd",
+            "uuid": "4e458d3d64e8429c8c5dd40aac478890"
+          }
+        ],
+        [
+          "74HC30",
+          1,
+          "DIP14",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C133818",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "CD74HC30E",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "fa602496f79a430482531abbcf082427"
+          }
+        ],
+        [
+          "28C64C",
+          1,
+          "DIP28-600",
+          "U9",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "bbc690a36c184d1b9a51ba6979bc612a",
+            "uuid": "979329c14ba44f1c9bc47c0a844ae6d9"
+          }
+        ],
+        [
+          "RASPBERRY-PI-PICO",
+          1,
+          "FT_RASPBERRY-PI-PICO_TH",
+          "U10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "061cb7b24c8941c3a2ea5deafaa776bc",
+            "uuid": "6ac546bd7fab450cba6247b6fbf2a8bd"
+          }
+        ],
+        [
+          "DB25H",
+          1,
+          "M25H",
+          "X1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "10bb1781dd4544e8b889f2548a273660",
+            "uuid": "d0d55c59bae04c8b986fb3c0282a4400"
+          }
+        ],
+        [
+          "74HC32",
+          1,
+          "DIP14",
+          "U2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "a739dc9e9a094560b5fac46377c39d58"
+          }
+        ],
+        [
+          "DM74LS27N",
+          1,
+          "DIP14",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "8d51c69156d44faa943fd9d695ed8141"
+          }
+        ],
+        [
+          "CD74HC125E",
+          1,
+          "PDIP-14_L19.3-W6.4-P2.54-LS7.9-BL-1",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1548119",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "CD74HC125E",
+            "puuid": "7f0ad408a835483d8942d64d433787e6",
+            "uuid": "2efce553d6694f709d55bfab3a39bf5c"
+          }
+        ],
+        [
+          "74HC86",
+          1,
+          "DIP14",
+          "U6",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "fefc3f929bb54efd9ed76a4091e7b7e8"
+          }
+        ],
+        [
+          "74HC10",
+          1,
+          "DIP14",
+          "U7",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Digi-Key",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "53dec24a03f144cf9931b510eb772b01"
+          }
+        ],
+        [
+          "MC74HC74AN",
+          1,
+          "DIP14",
+          "U8",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "7e707b83970d449fbf18633705a978ba"
+          }
+        ]
+      ],
+      "updateTime": 1688979359,
+      "createTime": 1678874119,
+      "histories": [],
+      "created_at": "2023-03-15 22:55:19",
+      "updated_at": "2023-07-10 20:55:59"
+    }
+  ],
+  "sort": [],
+  "title": "RC2014 - Interface E- V1.1",
+  "foldername": "RC2014 - Interface E- V1.1",
+  "schfilename": "RC2014- Interface E- V1.1.json",
+  "schfilemtime": 1690262265975
+}
